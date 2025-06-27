@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+@layer base {
+  html {
+    width: 300px; /* max: 800px */
+    height: 400px; /* max: 600px */
+  }
+}
